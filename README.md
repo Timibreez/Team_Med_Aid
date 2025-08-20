@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Team_Aid
 =======
 # med_aid
